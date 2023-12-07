@@ -4,7 +4,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
 ![mariadb](https://img.shields.io/badge/mariadb-003545.svg?&style=for-the-badge&logo=mariadb&logoColor=white)
 
-![JeFeel's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeFeel&show_icons=true&theme=radical)
+![JeFeel's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeFeel&include_all_commits=true&show_icons=true&theme=radical)
 
 <!--
 **JeFeel/JeFeel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
