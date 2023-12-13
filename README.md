@@ -14,7 +14,7 @@
 
 ### 🛢 Database
 ![mariadb](https://img.shields.io/badge/mariadb-003545.svg?&style=for-the-badge&logo=mariadb&logoColor=white)
-![mySQL](https://img.shields.io/badge/mySQL-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/oracle-F80000.svg?&style=for-the-badge&logo=oracle&logoColor=white)
 ![AmazonRDS](https://img.shields.io/badge/Amazon_RDS-527FFF.svg?&style=for-the-badge&logo=amazonrds&logoColor=white)
 
 ### 📱 FrontEnd
